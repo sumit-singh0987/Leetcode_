@@ -9,4 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/sumit-singh0987/Leetcode_/tree/master/0290-word-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/sumit-singh0987/Leetcode_/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
