@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/sumit-singh0987/Leetcode_/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sumit-singh0987/Leetcode_/tree/master/0318-maximum-product-of-word-lengths) |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/sumit-singh0987/Leetcode_/tree/master/0318-maximum-product-of-word-lengths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
