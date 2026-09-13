@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sumit-singh0987/Leetcode_/tree/master/0318-maximum-product-of-word-lengths) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
