@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sumit-singh0987/Leetcode_/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/sumit-singh0987/Leetcode_/tree/master/0836-rectangle-overlap) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sumit-singh0987/Leetcode_/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
