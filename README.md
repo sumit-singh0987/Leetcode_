@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/sumit-singh0987/Leetcode_/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/sumit-singh0987/Leetcode_/tree/master/0836-rectangle-overlap) |
 | [3894-traffic-signal-color](https://github.com/sumit-singh0987/Leetcode_/tree/master/3894-traffic-signal-color) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sumit-singh0987/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
