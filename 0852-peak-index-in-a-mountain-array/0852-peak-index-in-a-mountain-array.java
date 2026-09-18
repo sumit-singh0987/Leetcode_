@@ -12,6 +12,6 @@ class Solution {
                 right = mid;
             }
         }
-        return 0;
+        return arr[left];
     }
 }
