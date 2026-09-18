@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sumit-singh0987/Leetcode_/tree/master/0318-maximum-product-of-word-lengths) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 ## Geometry
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
