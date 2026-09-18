@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sumit-singh0987/Leetcode_/tree/master/0318-maximum-product-of-word-lengths) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Geometry
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
