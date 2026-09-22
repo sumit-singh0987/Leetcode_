@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
