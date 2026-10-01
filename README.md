@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sumit-singh0987/Leetcode_/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sumit-singh0987/Leetcode_/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit-singh0987/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3110-score-of-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sumit-singh0987/Leetcode_/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumit-singh0987/Leetcode_/tree/master/0011-container-with-most-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
