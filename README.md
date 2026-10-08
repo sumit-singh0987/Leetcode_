@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/sumit-singh0987/Leetcode_/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sumit-singh0987/Leetcode_/tree/master/0318-maximum-product-of-word-lengths) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -130,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
