@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sumit-singh0987/Leetcode_/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/sumit-singh0987/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sumit-singh0987/Leetcode_/tree/master/0443-string-compression) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sumit-singh0987/Leetcode_/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumit-singh0987/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/sumit-singh0987/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/sumit-singh0987/Leetcode_/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit-singh0987/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/sumit-singh0987/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sumit-singh0987/Leetcode_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
@@ -153,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sumit-singh0987/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
