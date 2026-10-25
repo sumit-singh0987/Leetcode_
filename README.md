@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sumit-singh0987/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/sumit-singh0987/Leetcode_/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumit-singh0987/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sumit-singh0987/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/sumit-singh0987/Leetcode_/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit-singh0987/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sumit-singh0987/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0160-intersection-of-two-linked-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sumit-singh0987/Leetcode_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
