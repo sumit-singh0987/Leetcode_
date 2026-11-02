@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sumit-singh0987/Leetcode_/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/sumit-singh0987/Leetcode_/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sumit-singh0987/Leetcode_/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sumit-singh0987/Leetcode_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3894-traffic-signal-color](https://github.com/sumit-singh0987/Leetcode_/tree/master/3894-traffic-signal-color) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sumit-singh0987/Leetcode_/tree/master/0318-maximum-product-of-word-lengths) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sumit-singh0987/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
