@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/sumit-singh0987/Leetcode_/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/sumit-singh0987/Leetcode_/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sumit-singh0987/Leetcode_/tree/master/0318-maximum-product-of-word-lengths) |
 | [0412-fizz-buzz](https://github.com/sumit-singh0987/Leetcode_/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sumit-singh0987/Leetcode_/tree/master/0443-string-compression) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/sumit-singh0987/Leetcode_/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/sumit-singh0987/Leetcode_/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit-singh0987/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sumit-singh0987/Leetcode_/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/sumit-singh0987/Leetcode_/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit-singh0987/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
