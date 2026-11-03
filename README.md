@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sumit-singh0987/Leetcode_/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sumit-singh0987/Leetcode_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sumit-singh0987/Leetcode_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3894-traffic-signal-color](https://github.com/sumit-singh0987/Leetcode_/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sumit-singh0987/Leetcode_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
