@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/0856-score-of-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sumit-singh0987/Leetcode_/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumit-singh0987/Leetcode_/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumit-singh0987/Leetcode_/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sumit-singh0987/Leetcode_/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sumit-singh0987/Leetcode_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sumit-singh0987/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sumit-singh0987/Leetcode_/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
