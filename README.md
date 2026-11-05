@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sumit-singh0987/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumit-singh0987/Leetcode_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/sumit-singh0987/Leetcode_/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-singh0987/Leetcode_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sumit-singh0987/Leetcode_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumit-singh0987/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Geometry
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sumit-singh0987/Leetcode_/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit-singh0987/Leetcode_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sumit-singh0987/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
